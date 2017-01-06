@@ -3,23 +3,23 @@
 }
 
 body {
-  background-color: white;
-  margin: 0 auto;
+  margin: 0;
 }
 
 header {
   width: 100%;
-  background-color: #FFFFFF;
   height: 150px;
+  background-color: #FFFFFF;
 }
 
+/*
 .blue-box {
   float: left;
   width: 25px;
   height: 25px;
   background-color: #A2BDDB;
-}
+} */
 
 .content {
-  
+
 }
