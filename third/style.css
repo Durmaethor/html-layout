@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  margin: 0 auto;
+}
+
+header {
+  width: 100%;
+  background-color: #FFFFFF;
+  height: 150px;
+}
+
+.blue-box {
+  float: left;
+  width: 25px;
+  height: 25px;
+  background-color: #A2BDDB;
+}
+
+.content {
+  
+}
